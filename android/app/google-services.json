@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870950307257",
+    "project_id": "doinglyapp-5b7a3",
+    "storage_bucket": "doinglyapp-5b7a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870950307257:android:965fe80dde448ae6d0a268",
+        "android_client_info": {
+          "package_name": "com.example.doingly_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB169ZEbBewjJ285wpPx48DwH58pEf4gKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
